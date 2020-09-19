@@ -1,0 +1,10 @@
+In openCV, the axese are
+
+ (0,0)------> X axis
+ |
+ |
+ |
+ v
+ Y axis
+
+ The channels are color channels such as Green, Blue, Red
