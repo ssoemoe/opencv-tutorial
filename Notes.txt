@@ -7,4 +7,8 @@ In openCV, the axese are
  v
  Y axis
 
- The channels are color channels such as Green, Blue, Red
+ * The channels are color channels such as Green, Blue, Red
+ * First real-time detection method was done by Viola and Jones
+        - OpenCV uses cascades (trained models in XML format) eyes, trees, frontalface,
+          fullbody, etc
+        - We can also create custom cascade and import.
