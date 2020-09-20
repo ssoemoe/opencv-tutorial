@@ -11,6 +11,6 @@ print(imgResize.shape)
 imgCropped = img[0:200, 200:500]
 
 cv2.imshow("Original image", img)
-cv2.imshow("Reszied image", imgResize)
+cv2.imshow("Resized image", imgResize)
 cv2.imshow("Cropped image", imgCropped)
 cv2.waitKey(0)
