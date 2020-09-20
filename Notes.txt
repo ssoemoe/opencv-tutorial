@@ -21,4 +21,7 @@ In openCV, the axese are
     color.
 
  * Document Scanner Project Procedure
- 1. 
+ https://www.murtazahassan.com/courses/learn-opencv-in-3-hours/lesson/project-2-document-scanner/
+ 1. Detect the document as the largest contour on the table
+ 2. Extract and display it
+ 3. Reorder and warp it as necessary
