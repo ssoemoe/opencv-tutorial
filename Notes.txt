@@ -19,3 +19,6 @@ In openCV, the axese are
  3. Get points - x and y for the movement of contour and fill colors.
  4. For multiple colors, perform loop for a list with multiple color HSVs and values in the place of a single
     color.
+
+ * Document Scanner Project Procedure
+ 1. 
