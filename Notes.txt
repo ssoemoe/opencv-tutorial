@@ -12,3 +12,10 @@ In openCV, the axese are
         - OpenCV uses cascades (trained models in XML format) eyes, trees, frontalface,
           fullbody, etc
         - We can also create custom cascade and import.
+
+ * Virtual Paint Project Procedure
+ 1. Remove the color(s) with specific color HSVs and mask them (removing the noise of other colors)
+ 2. Detect the shape and area of the stick or controller (get contour)
+ 3. Get points - x and y for the movement of contour and fill colors.
+ 4. For multiple colors, perform loop for a list with multiple color HSVs and values in the place of a single
+    color.
