@@ -28,7 +28,7 @@ while True:
         if len(approx) == 4:
             cv2.drawContours(resultImg, cont, -1, (255, 0, 0), 3)
             numberPlateContour = cont
-            # break
+            break
     cv2.drawContours(resultImg, numberPlateContour, -1, (255, 0, 0), 3)
     result = stackImages(0.5, ([img, resultImg], [imgBlur, imgCanny]))
     cv2.imshow("Result", result)
