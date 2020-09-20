@@ -25,3 +25,6 @@ In openCV, the axese are
  1. Detect the document as the largest contour on the table
  2. Extract and display it
  3. Reorder and warp it as necessary
+
+ * Number Plat Detection Project Procedure
+ https://medium.com/programming-fever/license-plate-recognition-using-opencv-python-7611f85cdd6c#:~:text=1.,location%20of%20the%20number%20plate.
